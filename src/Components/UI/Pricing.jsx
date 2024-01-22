@@ -62,7 +62,7 @@ const Pricing = () => {
                   </span>
                 </li>
               </ul>
-              <button className="register_btn">Joind Now</button>
+              <button className="register_btn">Join Now</button>
             </div>
           </div>
 
@@ -111,7 +111,7 @@ const Pricing = () => {
                 </li>
               </ul>
 
-              <button className="register_btn">Joind Now</button>
+              <button className="register_btn">Join Now</button>
             </div>
           </div>
 
@@ -160,7 +160,7 @@ const Pricing = () => {
                 </li>
               </ul>
 
-              <button className="register_btn">Joind Now</button>
+              <button className="register_btn">Join Now</button>
             </div>
           </div>
         </div>
